@@ -1,0 +1,3 @@
+pengmi 10000
+lili   8000
+zhang  500
